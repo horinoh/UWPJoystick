@@ -22,6 +22,8 @@ using namespace Windows::UI::Xaml::Interop;
 using namespace Windows::UI::Xaml::Media;
 using namespace Windows::UI::Xaml::Navigation;
 
+using namespace Windows::System::Diagnostics;
+
 /// <summary>
 /// 単一アプリケーション オブジェクトを初期化します。これは、実行される作成したコードの
 ///最初の行であるため、main() または WinMain() と論理的に等価です。
